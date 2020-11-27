@@ -1,5 +1,7 @@
-import Planes.*;
-import models.MilitaryType;
+package entity;
+
+import entity.plane.*;
+import entity.type.MilitaryType;
 
 import java.util.*;
 import java.util.stream.Collectors;
