@@ -1,3 +1,7 @@
-.idea
-.iml
-target
+.db  
+.log  
+
+.idea  
+target  
+bin  
+*.iml
